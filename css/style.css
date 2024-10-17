@@ -1,0 +1,36 @@
+body {
+    margin: auto;
+    max-width: 600px;
+}
+
+.header {
+    background-image: url(../img/pokedex.png);
+    background-color: red;
+    background-position: center;
+    height: 150px;
+    width: 600px;
+}
+
+main {
+    background-color: #B50F03;
+    height: 600px;
+    text-align: center;
+    
+}
+
+.form {
+    padding: 10px;
+}
+
+#input{
+    padding: 15px;
+    margin: 10px;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    background-image: url(../img/pokeball.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+
